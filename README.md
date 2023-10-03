@@ -16,4 +16,4 @@ Resistor_color_code_test © 2 by Jiang_Sprite is licensed under Attribution-NonC
 可做於教學用途，不得於考試、測驗，若必須用於考試或測驗，請勿計算成績，這是我捍衛學生的最後一條線，踩了就被我打一年官司吧！
 
 如果有人違反上面的版權聲明，請寄Email給我
-longtai0925@gmail.com
+tulubus9420@gmail.com
