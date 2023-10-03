@@ -11,4 +11,4 @@ Hi if ur en user：[UN KNOW](https://123.123)
 - 透過Python 3.6或更高版本使用。
 
 # 版權聲明
-Resistor_color_code_test © 2 by J is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+Resistor_color_code_test © 2 by Jiang_Sprite is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
