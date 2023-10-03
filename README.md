@@ -4,4 +4,7 @@ Hi if ur en user：[UN KNOW](https://123.123)
 安裝教學：[點我](https://medium.com/python4u/python%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-3878c0d7a469)
 
 # 開始使用
-. 123
+- 打開並下載 main.py (網址等我)
+- 透過Python 3.6或更高版本使用
+
+# 版權聲明
